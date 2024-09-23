@@ -1,12 +1,12 @@
 ## Searching Techniques
 
 1. _Linear search_ : Done
-2. Binary search
+2. Binary search : Done
 
 ## Sorting techniques
 
-1. Merge
-2. Selection
+1. Selection
+2. Merge
 3. Insertion
 4. Bubble
 5. Quick
